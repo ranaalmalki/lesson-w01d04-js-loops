@@ -176,7 +176,7 @@ result = i * j;
   }
 }
 ```
-
+.
 <br>
 
 ## The Grade Assigner
